@@ -6,6 +6,7 @@
 //  See LICENSE for full license agreement.
 //
 
+#import <Foundation/Foundation.h>
 #import "FICUtilities.h"
 
 #import <CommonCrypto/CommonDigest.h>

@@ -6,7 +6,6 @@
 //  See LICENSE for full license agreement.
 //
 
-#import "FICImports.h"
 #import "FICImageCache.h"
 #import "FICEntity.h"
 

@@ -6,10 +6,12 @@
 //  See LICENSE for full license agreement.
 //
 
+#import <Foundation/Foundation.h>
 #import "FICImageCache.h"
 #import "FICEntity.h"
 #import "FICImageTable.h"
 #import "FICImageFormat.h"
+
 
 #pragma mark Internal Definitions
 

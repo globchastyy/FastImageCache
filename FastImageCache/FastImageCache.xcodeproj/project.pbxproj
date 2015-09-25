@@ -14,7 +14,7 @@
 		B2E567951B316D9600906840 /* FICImageCache+FICErrorLogging.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E567861B316D9600906840 /* FICImageCache+FICErrorLogging.h */; };
 		B2E567961B316D9600906840 /* FICImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E567871B316D9600906840 /* FICImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2E567971B316D9600906840 /* FICImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E567881B316D9600906840 /* FICImageCache.m */; };
-		B2E567981B316D9600906840 /* FICImageFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E567891B316D9600906840 /* FICImageFormat.h */; };
+		B2E567981B316D9600906840 /* FICImageFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E567891B316D9600906840 /* FICImageFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B2E567991B316D9600906840 /* FICImageFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E5678A1B316D9600906840 /* FICImageFormat.m */; };
 		B2E5679A1B316D9600906840 /* FICImageTable.h in Headers */ = {isa = PBXBuildFile; fileRef = B2E5678B1B316D9600906840 /* FICImageTable.h */; };
 		B2E5679B1B316D9600906840 /* FICImageTable.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E5678C1B316D9600906840 /* FICImageTable.m */; };
